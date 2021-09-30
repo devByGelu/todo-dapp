@@ -1,0 +1,26 @@
+{
+  "name": "todo-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devByGelu/todo-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devByGelu/todo-dapp/issues"
+  },
+  "homepage": "https://github.com/devByGelu/todo-dapp#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "prettier-plugin-solidity": "*"
+  }
+}
